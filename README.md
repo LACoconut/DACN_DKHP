@@ -1,3 +1,5 @@
+STUDENT COURSE MANAGEMENT WEBSITE
+
 The website for registering and managing course modules plays a vital role in supporting training and learning activities at universities. This system allows students to register for the courses they want to take, while helping the university efficiently manage students' learning activities.
 Upon accessing the system, each student will log in with their own account to access the course registration section. Here, students can search for and view details of the courses offered in the semester, such as course descriptions, credit hours, class schedules, classroom locations, instructor names, etc. Based on this information, students can select and register for the courses they need to take.
 After students complete their registration, the academic department will review and officially approve classes for each course to begin teaching. This systematic approach ensures that the university's academic management tasks are conducted in a scientific and convenient manner.
@@ -10,6 +12,9 @@ Thus, it can be seen that the course registration and management website is a us
 - On November 20th: Implement the CRUD (Create, Read, Update, Delete) functionality for Courses and course registration.
 - On December 4th: Finalize the course registration page and begin coding the course details section.
 - On December 18th: Complete the course details page, implement file uploads, explore and utilize Multer, Cloudinary. Enhance UI for better user experience. Refactor code, write Dockerfile, finalize the website.
+
+
+WEBSITE QUẢN LÝ KHÓA HỌC SINH VIÊN
 
 Trang web đăng ký và quản lý học phần đóng vai trò quan trọng trong việc hỗ trợ công tác đào tạo và học tập tại các trường đại học. Đây là hệ thống cho phép sinh viên đăng ký các học phần mà mình muốn học, đồng thời giúp nhà trường quản lý việc học tập của sinh viên một cách hiệu quả.
 Khi truy cập vào hệ thống, mỗi sinh viên sẽ đăng nhập bằng tài khoản riêng để vào mục đăng ký học phần. Tại đây, sinh viên có thể tìm kiếm và xem chi tiết các học phần được mở trong học kỳ như: mô tả môn học, số tín chỉ, lịch học, phòng học, tên giảng viên... Từ đó, sinh viên sẽ lựa chọn và đăng ký những học phần mà mình cần học.
